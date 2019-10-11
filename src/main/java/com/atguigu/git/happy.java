@@ -5,7 +5,7 @@ public class happy {
 	
 public String testhappy(){
 	
-	return "happy..left1";
+	return "happy..right1";
 	
 }
 	
